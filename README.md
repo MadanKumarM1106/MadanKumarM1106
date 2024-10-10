@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at VidyaVardhaka College Of engineering
+Student at VidyaVardhaka College Of engineering 
 
 
 # 💻 Tech Stack:
