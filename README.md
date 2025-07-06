@@ -1,17 +1,13 @@
 # 💫 About Me:
 🎓 Student at Vidya Vardhaka College of Engineering  
-📊 Aspiring Data Scientist | Curious about AI, ML, and Data Analytics  
+💻 Passionate about programming and exploring new technologies  
 😴 Occasionally lazy, but always learning!
 
 ---
 
-# 🧠 Data Science Skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-206B99?style=plastic&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+# 🧰 Current Tech Skills:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 
 ---
 
