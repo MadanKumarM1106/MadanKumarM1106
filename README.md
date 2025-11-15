@@ -16,6 +16,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 ---
+<p align="left">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180" alt="data flow gif"/>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MadanKumarM1106&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
