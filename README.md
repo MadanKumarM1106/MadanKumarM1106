@@ -16,9 +16,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU5ZTdycGR0M2ViM3o5ZXg4czNqcHR0dXhyMnZoNnltMXE2MWVjcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2ikwIgNrmPZICNmRyX/giphy.gif" width="300" />
-</p>
+ 
 
 
 # 📊 GitHub Stats:
