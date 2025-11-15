@@ -1,23 +1,27 @@
 # 💫 About Me:
 🎓 Student at Vidya Vardhaka College of Engineering  
 💻 Passionate about programming and exploring new technologies  
+🌐 **Aspiring Developer**  
+🤖 **AIML Enthusiast**  
 😴 Occasionally lazy, but always learning!
 
 ---
 
- 
 # 🧰 Current Tech Skills:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MadanKumarM1106&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=MadanKumarM1106&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=MadanKumarM1106&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MadanKumarM1106&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadanKumarM1106&theme=dark&hide_border=false&layout=compact)
 
 ---
